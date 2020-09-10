@@ -1,2 +1,2 @@
 # Java_Project
-The practice on jave class
+The practice on java class
